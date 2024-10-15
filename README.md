@@ -1,4 +1,5 @@
-Como usar
+**Como usar**
+
 Selecione a pasta de dados: Esta é a pasta que contém subpastas com arquivos Excel por ano/mês, que você deseja combinar.
 
 Selecione a pasta de destino: Esta é a pasta onde os arquivos combinados serão salvos.
@@ -14,7 +15,8 @@ Erro de biblioteca: Se você encontrar um erro dizendo que a biblioteca pandas o
 
 
 
-Estrutura do Projeto
+**Estrutura do Projeto**
+
 A estrutura do projeto deve se parecer com isso:
 
 juntar_planilhas_aprimorado/
@@ -25,7 +27,8 @@ juntar_planilhas_aprimorado/
 ├── HOW_TO.md                     # Instruções de uso (este arquivo)
 └── README.md                     # Descrição do projeto
 
-Requisitos para as pastas de dados
+**Requisitos para as pastas de dados**
+
 A pasta de dados deve conter subpastas organizadas por ano (por exemplo, 2022, 2023).
 Cada subpasta deve conter arquivos .xlsx para cada mês que você deseja juntar.
 Exemplo de estrutura de pastas:
