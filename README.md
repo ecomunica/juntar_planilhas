@@ -91,4 +91,10 @@ Você pode baixar este projeto ou cloná-lo via Git:
 ```bash
 https://github.com/ecomunica/juntar_planilhas.git
 
+**Extra**
 
+Código Final com ttkbootstrap, Responsividade e Barra de Progresso Indeterminada:
+Passos:
+ttkbootstrap: Será utilizado para aplicar temas modernos.
+Responsividade: Os widgets ajustarão automaticamente seu tamanho conforme a janela for redimensionada.
+Barra de Progresso Indeterminada: Indicará visualmente que o processo está em execução sem um número definido de etapas.
