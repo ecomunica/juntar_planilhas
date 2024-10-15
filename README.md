@@ -22,11 +22,17 @@ A estrutura do projeto deve se parecer com isso:
 
 juntar_planilhas_aprimorado/
 │
+
 ├── juntar_planilhas_tkinter.py   # Script principal com Tkinter
+
 ├── funcoes.py                    # Funções auxiliares para juntar planilhas
+
 ├── requirements.txt              # Dependências do projeto
+
 ├── HOW_TO.md                     # Instruções de uso (este arquivo)
+
 └── README.md                     # Descrição do projeto
+
 
 
 **Requisitos para as pastas de dados**
@@ -37,13 +43,21 @@ Exemplo de estrutura de pastas:
 
 pasta_dados/
 ├── 2022/
+
 │   ├── janeiro.xlsx
+
 │   ├── fevereiro.xlsx
+
 │   └── ...
+
 ├── 2023/
+
 │   ├── janeiro.xlsx
+
 │   ├── fevereiro.xlsx
+
 │   └── ...
+
 └── ...
 
 O script lerá e processará essas pastas automaticamente.
