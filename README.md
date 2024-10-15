@@ -19,6 +19,7 @@ Erro de biblioteca: Se você encontrar um erro dizendo que a biblioteca pandas o
 
 A estrutura do projeto deve se parecer com isso:
 
+
 juntar_planilhas_aprimorado/
 │
 ├── juntar_planilhas_tkinter.py   # Script principal com Tkinter
@@ -27,11 +28,13 @@ juntar_planilhas_aprimorado/
 ├── HOW_TO.md                     # Instruções de uso (este arquivo)
 └── README.md                     # Descrição do projeto
 
+
 **Requisitos para as pastas de dados**
 
 A pasta de dados deve conter subpastas organizadas por ano (por exemplo, 2022, 2023).
 Cada subpasta deve conter arquivos .xlsx para cada mês que você deseja juntar.
 Exemplo de estrutura de pastas:
+
 pasta_dados/
 ├── 2022/
 │   ├── janeiro.xlsx
@@ -42,6 +45,7 @@ pasta_dados/
 │   ├── fevereiro.xlsx
 │   └── ...
 └── ...
+
 O script lerá e processará essas pastas automaticamente.
 
 # Como instalar e usar o script de junção de planilhas Excel
