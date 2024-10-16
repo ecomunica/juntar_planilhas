@@ -91,6 +91,16 @@ Você pode baixar este projeto ou cloná-lo via Git:
 ```bash
 https://github.com/ecomunica/juntar_planilhas.git
 
+
+
+
+
+
+
+
+
+
+
 **Extra**
 
 Código Final com ttkbootstrap, Responsividade e Barra de Progresso Indeterminada:
